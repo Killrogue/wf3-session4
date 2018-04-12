@@ -1,5 +1,6 @@
 # wf3-session4
 
+<<<<<<< HEAD
 J'ai modifié cette ligne
 
 Et une autre 
@@ -15,3 +16,6 @@ Hey pap's c'est moi ton préféré alors reviens tout suite
 Rageux !! C'est moi qu'il a cloné !
 
 Je vous haie je m'émencipe
+=======
+Authentification
+>>>>>>> Authentification
