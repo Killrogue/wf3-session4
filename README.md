@@ -11,3 +11,5 @@ J'ajoute encore une ligne
 Pas de bétises
 
 Hey pap's c'est moi ton préféré alors reviens tout suite
+
+Rageux !! C'est moi qu'il a cloné !
