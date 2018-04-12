@@ -1,6 +1,7 @@
 # wf3-session4
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 J'ai modifié cette ligne
 
 Et une autre 
@@ -21,3 +22,6 @@ Authentification
 >>>>>>> Authentification
 
 Where's the TRONC? Ho my GOD he is on my left!
+=======
+Séquoïa
+>>>>>>> Tronc
